@@ -1,1 +1,1 @@
-https://github.com/AndreiKhalizov/tanais.git
+https://andreikhalizov.github.io/tanais/#/
