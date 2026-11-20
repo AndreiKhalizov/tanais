@@ -32,8 +32,9 @@ const program = [
       alt="Археологическая экспозиция"
     />
     <nav class="detail-nav">
-      <a href="#about-trip">Об экспедиции</a><a href="#program">Программа</a
-      ><a href="#team">Команда и быт</a>
+      <span>Об экспедиции</span>
+      <span>Программа</span>
+      <span>Команда и быт</span>
     </nav>
     <section class="detail-overview" id="about-trip">
       <div>
@@ -48,10 +49,10 @@ const program = [
           узнаешь, как из маленького фрагмента складывается большая история. Всё
           это рядом с опытными наставниками и единомышленниками.
         </p>
-        <a class="text-link" href="#program"
-          >Опыт не нужен. Важны внимательность, любопытство и готовность
-          работать в команде.</a
-        >
+        <span class="text-link">
+          Опыт не нужен. Важны внимательность, любопытство и готовность работать в команде.
+        </span>
+        
       </div>
       <aside class="price-panel">
         <div class="eyebrow">ПРИМЕР · СМЕНА 01</div>

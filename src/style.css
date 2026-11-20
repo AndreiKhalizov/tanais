@@ -67,9 +67,7 @@ input {
   font-size: 12px;
 }
 .nav a:hover,
-.detail-nav a:hover {
-  color: var(--rust);
-}
+
 .login-button,
 .outline-link {
   background: transparent;
